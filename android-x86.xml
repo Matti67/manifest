@@ -207,7 +207,7 @@
 	
 	<!-- Bliss Items -->
 	<project path="prebuilts/tools-bliss" name="platform_prebuilts_tools-bliss" remote="BlissRoms" revision="q"/>
-	<project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="BlissRoms" revision="q" /> 
+	<!--<project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="BlissRoms" revision="q" />--> 
 	<project path="packages/apps/SettingsIntelligence" name="platform_packages_apps_SettingsIntelligence" remote="BlissRoms" revision="p9.0" />
 	<project path="packages/apps/Blissify" name="platform_packages_apps_Blissify" remote="BR-x86" revision="q10-x86-03.25.20" /> 
 	<project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="BR-x86" revision="q10-x86-03.28.20" />
